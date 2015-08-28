@@ -123,7 +123,7 @@ body{
 	z-index:100;
 	width: 30%;
 	margin-left: -5%;
-	margin-top: -78%;
+	margin-top: -80%;
 }
 .home-pic a.mini:hover{ cursor:pointer;}
 .home-pic a:hover .pic{width:105%;height:105%;visibility:visible;}
@@ -193,9 +193,10 @@ body{
 .contact-container .thumbs-container{
 	width: 8%;
 	float: left;
+	margin-top: 55px;
 }
 .contact-container .thumbs-container .thumbs{
-	margin-top: 70%;
+	margin-bottom: 50px;
 }
 .contact-content{
 	width: 80%;
@@ -308,7 +309,7 @@ body{
 }
 .main-back .container{
 	background-color: #ffffff;
-	height: 350px;
+	padding-bottom: 50px;
 	border: solid 1px #74eaff;
 }
 .main-back .container .title{
@@ -329,6 +330,7 @@ body{
 .main-back .container .content-title{
 	padding-top: 7px;
 	color:black;
+	text-align: right;
 }
 .main-back .container span{
 	color:black;

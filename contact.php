@@ -72,6 +72,12 @@
           </div>
         </div>
 
+        <div class="row">
+          <span class="col-xs-6"></span>
+            <a class="btn btn-primary col-xs-5" style="background-color:#17dcff;border:1px solid #17dcff;margin-left:5%;">提交</a>
+        </div>
+
+
     </div>
 
     <div class="contact-right container-fluid">
