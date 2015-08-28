@@ -184,42 +184,6 @@
 
     <div class="content row">
 
-      <span class="col-xs-4 content-title">当前是否部署了Wi-Fi</span>
-      <div class="col-xs-8">
-        <input type="radio" name="mall" class="hidden 1"></input>
-        <div class="radio" id="1"></div><span class="name">是</span>
-        <input type="radio" name="mall" class="hidden 2"></input>
-        <div class="radio" id="2"></div><span class="name">否</span>
-      </div>
-
-    </div>
-
-    <div class="content row">
-
-      <span class="col-xs-4 content-title">当前是否具备客流分析</span>
-      <div class="col-xs-8">
-        <input type="radio" name="mall" class="hidden 1"></input>
-        <div class="radio" id="1"></div><span class="name">是</span>
-        <input type="radio" name="mall" class="hidden 2"></input>
-        <div class="radio" id="2"></div><span class="name">否</span>
-      </div>
-
-    </div>
-
-    <div class="content row">
-
-      <span class="col-xs-4 content-title">是否需要微信管理平台</span>
-      <div class="col-xs-8">
-        <input type="radio" name="mall" class="hidden 1"></input>
-        <div class="radio" id="1"></div><span class="name">是</span>
-        <input type="radio" name="mall" class="hidden 2"></input>
-        <div class="radio" id="2"></div><span class="name">否</span>
-      </div>
-
-    </div> 
-
-    <div class="content row">
-
       <span class="col-xs-4 content-title">公司名称</span>
       <div class="col-xs-6">
         <input type="text" class="form-control"></input>
