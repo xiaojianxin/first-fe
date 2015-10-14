@@ -119,7 +119,7 @@
         入口级的营销利器
         </div> 
         <div class="box-bottom-content">
-        连接Wi-Fi即刻出
+        连接Wi-Fi即刻弹出
         </div> 
         <div class="box-bottom-content">
         轮播图，轻应用

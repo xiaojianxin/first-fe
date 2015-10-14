@@ -178,30 +178,4 @@
 <div class="foot-back">
  <img style="width:100%;margin-top:10%;min-width:1000px" src="./images/analysis/tu3.png" />
 </div>
-<div class="foot-container" style="width:100%;margin-top:20%;margin-bottom:20%;">
-    <div class="row" style="width:width:58%;margin:0 auto;">
-      <div class="col-xs-3"></div>
-            <div class="col-xs-6" style="text-align: center;">
-                <span style="font-size:30px;color:#fff;">国家认可</span>
-                <div style="margin-top:2%; color:#fff;">中国通信协会科学技术一等奖</div>
-            </div>
-      <div class="col-xs-3"></div>
-    </div>
 
-    <div class="row" style="width:58%;margin:0 auto;margin-top:10%;">
-        <div class="col-xs-6" >
-            <div style="text-align: center;">
-                <span style="font-size:30px;color:#fff;">国家认可</span>
-                <div style="margin-top:2%; color:#fff;">中国通信协会科学技术一等奖</div>
-            </div>
-
-        </div>
-        <div class="col-xs-6" style="float:left;">
-            <div style="text-align: center;">
-                <span style="font-size:30px;color:#fff;">国家认可</span>
-                <div style="margin-top:2%; color:#fff;">中国通信协会科学技术一等奖</div>
-            </div>
-
-        </div>
-    </div>
-</div>

@@ -4,7 +4,7 @@
     <div style="position:absolute;min-width:210px;left:15%;top:20%;text-align:center;padding-bottom:40px;">
       <a style="font-size:35px; font-famliy:'微软雅黑';text-shadow: black 0 2px 5px;" href="./index.php?id=5">切换到高级版</a>
     </div>
-    <span style="font-size:20px;">更多款型请了解咨询我们</span>
+    <span style="font-size:20px;">了解更多款型请咨询我们</span>
   </div>
   <img style="width:100%" src="./images/detail/detail1.jpg" />
    <div class="row" >

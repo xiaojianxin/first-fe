@@ -38,14 +38,14 @@
  
 <br>
 
-  <p>所有通过悦box渠道代理购买Yue-box的用户，都可以直接联系代理商提供服务，</p>
+  <p>所有通过悦box渠道代理购买悦box的用户，都可以直接联系代理商提供服务，</p>
   <p>渠道商有义务为客户解决问题，悦box代理商客服仅为代理商提供服务。
  </div>
 </div>
 
 <div class="contact-form">
   <div class="container">
-    <div class="contact-left container-fluid">
+    <div class="contact-left container-fluid plain1">
 
         <div class="row">
           <h4 style="font-size:18px;">您对我们有什么意见或建议:</h4>
@@ -74,10 +74,24 @@
 
         <div class="row">
           <span class="col-xs-6"></span>
-            <a class="btn btn-primary col-xs-5" style="background-color:#17dcff;border:1px solid #17dcff;margin-left:5%;">提交</a>
+            <a class="btn btn-primary col-xs-5 submit" style="background-color:#17dcff;border:1px solid #17dcff;margin-left:5%;margin-bottom:10px; color:white;">提交</a>
         </div>
 
 
+    </div>
+
+
+    <div class="contact-left container-fluid plain2 hidden" style="margin-left:10%;padding-top:5%;">
+      <div class="row">
+          <span class="col-xs-6" style="font-size:22px;color:#17dcff">兼听则明，偏听则暗</span>
+        </div>
+      <div class="row" style="text-align:center;">
+          <span class="col-xs-6" style="font-size:18px;color:#959595">感谢您的宝贵意见</span>
+      </div>
+
+      <div class="row">
+          <div  class="btn btn-primary col-xs-5 back" style="background-color:#17dcff;border:1px solid #17dcff;margin-left:5%; color:white;">返回继续提意见</div>
+        </div>
     </div>
 
     <div class="contact-right container-fluid">
@@ -97,3 +111,14 @@
     </div>
   </div>
 </div>
+
+<script>
+$(".submit").click(function(){
+      $(".plain1").addClass('hidden');
+      $(".plain2").removeClass('hidden');
+});
+$(".back").click(function(){
+      $(".plain2").addClass('hidden');
+      $(".plain1").removeClass('hidden');
+});
+</script>

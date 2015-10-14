@@ -2,16 +2,16 @@
 <nav class="navbar navbar-default head-nav" role="navigation">
   <div class="container-fluid">
    <div class="navbar-header">
-      <a class="navbar-brand" style="margin-left:15px;" ><img src="./images/home/neotel.png"></a>
+      <a class="navbar-brand" style="margin-left:15px;"><img src="./images/home/neotel.png"></a>
       <div><span style="margin-top:-20px;z-index:1;">悦box</span></div>
    </div>
    <div class="navbar-collapse collapse" style="float:right">
-   	  <a class="btn btn-default nav-btn" href="http://www.neoap.com/login">登录聚商</a>
+   	  <a class="btn btn-default nav-btn" href="http://www.neoap.com/login" target="_blank">登录聚商</a>
       <ul class="nav navbar-nav menu-right">
-         <li class="chooseli"><a id="1" href="#">首页</a></li>
-         <li><a id="2" href="#">系统参数</a></li>
-         <li><a id="3" href="#">联系我们</a></li>
-         <li><a id="4" href="#">试用/购买</a></li>
+         <li class="chooseli"><a class="alink" id="1" href="#">首页</a></li>
+         <li><a class="alink" id="2" href="#">系统参数</a></li>
+         <li><a class="alink" id="3" href="#">联系我们</a></li>
+         <li><a class="alink" id="4" href="#">试用/购买</a></li>
          
       </ul>
       
@@ -23,7 +23,7 @@
 
 
 <script>
-$('a').click(function(){
+$('.alink').click(function(){
    var id = $(this).attr('id');
    window.location.href = "./index.php?id="+id;
 });

@@ -37,7 +37,7 @@
   </div>
 
   
-    <img style="width:100%;  margin-top:100px;" src="./images/wechat/tu2.png">
+    <img style="width:80%;  margin-top:100px; margin-left:10%;" src="./images/wechat/tu2.png">
 
 
   <div class="row" style="text-align:center;color:#cbdce8;margin-top:150px;">
@@ -46,7 +46,7 @@
   </div>
 
  
-    <img style="width:100%; margin-top:100px;" src="./images/wechat/tu3.png">
+    <img style="width:80%; margin-top:100px;margin-left:10%;" src="./images/wechat/tu3.png">
 
 </div>
 
